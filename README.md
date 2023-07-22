@@ -21,6 +21,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=megasuite&show_icons=true&locale=en&layout=compact" alt="megasuite" /></p>
 
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=megasuite&show_icons=true&locale=en" alt="megasuite" /></p>
 
 
