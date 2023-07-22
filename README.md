@@ -23,5 +23,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=megasuite&show_icons=true&locale=en" alt="megasuite" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=megasuite&" alt="megasuite" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=megasuite&" alt="megasuite" /></p>
 
