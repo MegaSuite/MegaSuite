@@ -25,3 +25,5 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=megasuite&" alt="megasuite" /></p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
