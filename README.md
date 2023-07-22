@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=megasuite&label=Profile%20views&color=0e75b6&style=flat" alt="megasuite" /> </p>
 
-- 📝 I regularly write articles on [https://konradlocas.top](https://konradlocas.top)
+- 📝 Write articles on [https://konradlocas.top](https://konradlocas.top)
 
 - 📫 E-mail me at **amazing0possible@gmail.com**
 
