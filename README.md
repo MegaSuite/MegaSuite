@@ -21,7 +21,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=megasuite&show_icons=true&locale=en&layout=compact" alt="megasuite" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=megasuite&show_icons=true&locale=en" alt="megasuite" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=megasuite&show_icons=true&locale=en" alt="megasuite" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=megasuite&" alt="megasuite" /></p>
 
