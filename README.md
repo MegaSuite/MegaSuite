@@ -26,4 +26,9 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=megasuite&" alt="megasuite" /></p>
 
 <!--START_SECTION:waka-->
+
+```txt
+INI   0 hrs 2 mins    🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   100.00 %
+```
+
 <!--END_SECTION:waka-->
