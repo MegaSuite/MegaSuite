@@ -5,9 +5,9 @@
 
 - 📝 I regularly write articles on [https://konradlocas.top](https://konradlocas.top)
 
-- 📫 How to reach me **amazing0possible@gmail.com**
+- 📫 E-mail me at **amazing0possible@gmail.com**
 
-- ⚡ Fun fact **As a Humorous Boy**
+- ⚡ **Thinks As a Humorous Man**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
