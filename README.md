@@ -3,11 +3,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=megasuite&label=Profile%20views&color=0e75b6&style=flat" alt="megasuite" /> </p>
 
-<p align='center'>- 📝 Write articles on [https://konradlocas.top](https://konradlocas.top)</p>
+- 📝 Write articles on [https://konradlocas.top](https://konradlocas.top)
 
-<p align='center'>- 📫 E-mail me at **amazing0possible@gmail.com**</p>
+- 📫 E-mail me at **amazing0possible@gmail.com**
 
-<p align='center'>- ⚡ **Thinks As a Humorous Man**</p>
+- ⚡ **Thinks As a Humorous Man**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
