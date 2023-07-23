@@ -18,7 +18,9 @@
 - 📫 E-mail me at **amazing0possible@gmail.com**
 
 - ⚡ **Thinks As a Humorous Man**
-  
+
+
+<p><img align='center' src="https://blog-pic-storage.oss-cn-shanghai.aliyuncs.com/github_profile/dino.gif"/></p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=megasuite" />
@@ -27,13 +29,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=megasuite&show_icons=true&locale=en&layout=compact" alt="megasuite"/>
 </a>
 
-
-
-
-
-
-
-<p><img align='center' src="https://blog-pic-storage.oss-cn-shanghai.aliyuncs.com/github_profile/dino.gif"/></p>
 
 ### :bar_chart: Coding Time Per Month
 <!--START_SECTION:waka-->
