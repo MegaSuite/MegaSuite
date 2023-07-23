@@ -20,7 +20,7 @@
 - ⚡ **Thinks As a Humorous Man**
 
 
-<p><img align='center' src="https://blog-pic-storage.oss-cn-shanghai.aliyuncs.com/github_profile/dino.gif"/></p>
+<p><a href="https://dino.zone" target="_blank"> <img align='center' src="https://blog-pic-storage.oss-cn-shanghai.aliyuncs.com/github_profile/dino.gif"/></a></p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=megasuite" />
