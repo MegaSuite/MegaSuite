@@ -23,7 +23,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=megasuite&show_icons=true&locale=en&layout=compact" alt="megasuite" width="400" height="200" /></p>
 
-<p><img align='center' src="https://blog-pic-storage.oss-cn-shanghai.aliyuncs.com/github_profile/dino.gif" width="1700" height="400" /></p>
+<p><img align='center' src="https://blog-pic-storage.oss-cn-shanghai.aliyuncs.com/github_profile/dino.gif" width="1700" height="350" /></p>
 
 ### :bar_chart: Coding Time Per Month
 <!--START_SECTION:waka-->
