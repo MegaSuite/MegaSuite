@@ -21,7 +21,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=megasuite&show_icons=true&locale=en&layout=compact" alt="megasuite" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=megasuite&show_icons=true&locale=en&layout=compact" alt="megasuite" width="60" height="30" /></p>
 
 
 ### :bar_chart: Coding Time Per Month
