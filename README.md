@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋,this is Konrad Locas</h1>
 <h3 align="center">We only live so long, we just skip that proof.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=megasuite&label=Profile%20views&color=0e75b6&style=flat" alt="megasuite" /> </p>
+<p align="center"> <a href="https://github.com/antonkomarev/github-profile-views-counter" target="_blank"> <img src="https://komarev.com/ghpvc/?username=megasuite&label=Profile%20views&color=0e75b6&style=flat" alt="megasuite" /> </a></p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/konrad_locas" target="blank"><img align="center" src="https://blog-pic-storage.oss-cn-shanghai.aliyuncs.com/github_profile/twitter.svg" alt="konrad_locas" height="30" width="40" /></a>
