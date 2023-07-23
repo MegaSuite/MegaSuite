@@ -12,6 +12,14 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://blog-pic-storage.oss-cn-shanghai.aliyuncs.com/github_profile/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://blog-pic-storage.oss-cn-shanghai.aliyuncs.com/github_profile/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://blog-pic-storage.oss-cn-shanghai.aliyuncs.com/github_profile/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://blog-pic-storage.oss-cn-shanghai.aliyuncs.com/github_profile/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://blog-pic-storage.oss-cn-shanghai.aliyuncs.com/github_profile/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://blog-pic-storage.oss-cn-shanghai.aliyuncs.com/github_profile/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://blog-pic-storage.oss-cn-shanghai.aliyuncs.com/github_profile/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+- 📝 Write articles on [https://konradlocas.top](https://konradlocas.top)
+
+- 📫 E-mail me at **amazing0possible@gmail.com**
+
+- ⚡ **Thinks As a Humorous Man**
+  
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=megasuite" />
 </a>
@@ -19,11 +27,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=megasuite&show_icons=true&locale=en&layout=compact" alt="megasuite"/>
 </a>
 
-- 📝 Write articles on [https://konradlocas.top](https://konradlocas.top)
 
-- 📫 E-mail me at **amazing0possible@gmail.com**
-
-- ⚡ **Thinks As a Humorous Man**
 
 
 
