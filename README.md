@@ -1,4 +1,4 @@
-<p align='center'> <img src="https://blog-pic-storage.oss-cn-shanghai.aliyuncs.com/github_profile/avatar.jpg" height="400" width="400"/></p>
+<p align='center'> <img src="https://blog-pic-storage.oss-cn-shanghai.aliyuncs.com/github_profile/avatar.jpg" height="300" width="300"/></p>
 <h1 align="center">Hi 👋,this is Konrad Locas</h1>
 <h3 align="center">We only live so long, we just skip that proof.</h3>
 
