@@ -1,5 +1,5 @@
 <p align='center'> <a href="https://github.com/MegaSuite" target="_blank"> <img src="https://github.com/MegaSuite/MegaSuite/blob/main/resources/avatar.jpg?raw=true" height="200" width="200"/></a></p>
-<h1 align="center">Hi 👋,this is Konrad Gerrens</h1>
+<h1 align="center">Hi 👋,this is Konrad.</h1>
 <h3 align="center">We only live so long, we just skip that proof.</h3>
 
 <p align="center"> <a href="https://github.com/antonkomarev/github-profile-views-counter" target="_blank"> <img src="https://komarev.com/ghpvc/?username=megasuite&label=Profile%20views&color=0e75b6&style=flat" alt="megasuite" /> </a></p>
