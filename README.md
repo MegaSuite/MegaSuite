@@ -13,7 +13,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/MegaSuite/MegaSuite/6c077f632fc6bffd34ed7368d28896b47bcd0a10/resources/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/MegaSuite/MegaSuite/6c077f632fc6bffd34ed7368d28896b47bcd0a10/resources/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/MegaSuite/MegaSuite/6c077f632fc6bffd34ed7368d28896b47bcd0a10/resources/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/MegaSuite/MegaSuite/6c077f632fc6bffd34ed7368d28896b47bcd0a10/resources/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/MegaSuite/MegaSuite/6c077f632fc6bffd34ed7368d28896b47bcd0a10/resources/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/MegaSuite/MegaSuite/6c077f632fc6bffd34ed7368d28896b47bcd0a10/resources/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/MegaSuite/MegaSuite/6c077f632fc6bffd34ed7368d28896b47bcd0a10/resources/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-- 📝 Write articles on [https://updating.top](https://updating.top)
+- 📝 Write articles on [https://www.0co.dev](https://www.0co.dev)
 
 - 📫 E-mail me at **amazing0possible@gmail.com**
 
@@ -28,19 +28,3 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=megasuite&show_icons=true&locale=en&layout=compact" alt="megasuite"/>
 </a>
-
-
-### :bar_chart: Coding Time Per Month
-<!--START_SECTION:waka-->
-
-```txt
-Total Time: 2 hrs 17 mins
-
-Text         0 hrs 37 mins   🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   26.81 %
-YAML         0 hrs 35 mins   🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   25.46 %
-INI          0 hrs 25 mins   🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   18.15 %
-Python       0 hrs 21 mins   🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.29 %
-unknown      0 hrs 14 mins   🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.51 %
-```
-
-<!--END_SECTION:waka-->
