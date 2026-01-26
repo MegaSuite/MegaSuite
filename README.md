@@ -13,8 +13,6 @@
 
 - 📫 E-mail me at **megasuite914@gmail.com**
 
-- ⚡ **Thinks As a Humorous Man**
-
 
 <p><a href="https://dino.zone" target="_blank"> <img align='center' src="https://github.com/MegaSuite/MegaSuite/blob/main/resources/dino.gif?raw=true"/></a></p>
 
