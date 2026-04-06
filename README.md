@@ -13,12 +13,9 @@
 
 - 📫 E-mail me at **megasuite914@gmail.com**
 
+<p><a href="https://dino.zone" target="_blank"> <img align='center' src="./resources/dino.gif?raw=true"/></a></p>
 
-<p><a href="https://dino.zone" target="_blank"> <img align='center' src="https://github.com/MegaSuite/MegaSuite/blob/main/resources/dino.gif?raw=true"/></a></p>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=megasuite" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=megasuite&show_icons=true&locale=en&layout=compact" alt="megasuite"/>
-</a>
+<div style="display: flex; gap: 10px; align-items: stretch;">
+  <img src="./profile/stats.svg" style="height: 200px;"/>
+  <img src="./profile/top-langs.svg" style="height: 200px;"/>
+</div>
