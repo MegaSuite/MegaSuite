@@ -9,7 +9,7 @@
 </p>
 
 
-- 📝 Write articles on [https://www.foolco.de](https://www.foolco.de)
+- 📝 Write articles on [https://www.mothcode.com](https://www.mothcode.com)
 
 - 📫 E-mail me at **megasuite914@gmail.com**
 
