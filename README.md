@@ -14,8 +14,3 @@
 - 📫 E-mail me at **megasuite914@gmail.com**
 
 <p><a href="https://dino.zone" target="_blank"> <img align='center' src="./resources/dino.gif?raw=true"/></a></p>
-
-<div style="display: flex; gap: 10px; align-items: stretch;">
-  <img src="./profile/stats.svg" style="height: 200px;"/>
-  <img src="./profile/top-langs.svg" style="height: 200px;"/>
-</div>
